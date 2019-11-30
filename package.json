@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "fast-csv": "^3.4.0",
+    "nodemon": "^2.0.1",
+    "puppeteer": "^2.0.0"
+  },
+  "scripts": {
+    "dev": "nodemon server.js",
+    "start": "node server.js"
+  }
+}
