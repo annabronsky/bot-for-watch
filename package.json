@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "fast-csv": "^3.4.0",
     "nodemon": "^2.0.1",
     "puppeteer": "^2.0.0"
